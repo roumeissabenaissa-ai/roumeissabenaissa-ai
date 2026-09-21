@@ -48,3 +48,5 @@
 
 - 💼 [LinkedIn]([https://www.linkedin.com/in/roumeissa-benaissa/](https://www.linkedin.com/in/roumeissa-benaissa-4b9924351/))
 - 📧 [Email](mailto:roumeissa.benaissa@univ-constantine2.dz)
+### 🤝 Let's Connect
+* 💼 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roumeissa-benaissa-4b9924351/)
