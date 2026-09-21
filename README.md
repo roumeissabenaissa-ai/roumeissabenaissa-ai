@@ -37,3 +37,14 @@
 | **📱 Mobile Development** | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) |
 | **⚙️ Backend Development** | ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Django REST Framework](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=A30000) |
 | **🔧 Tools & Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+
+## 📚 Learning & Building 
+ 
+- 📱 Building cross-platform mobile applications while deepening my skills 
+- 🤖 Developing AI-driven applications while expanding my AI knowledge 
+- 🧩 Exploring AI-based solutions to solve real-world problems
+
+## 🤝 Connect with Me
+
+- 💼 [LinkedIn]([https://www.linkedin.com/in/roumeissa-benaissa/](https://www.linkedin.com/in/roumeissa-benaissa-4b9924351/))
+- 📧 [Email](mailto:roumeissa.benaissa@univ-constantine2.dz)
