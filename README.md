@@ -44,7 +44,7 @@
 - 🤖 Developing AI-driven applications while expanding my AI knowledge 
 - 🧩 Exploring AI-based solutions to solve real-world problems
 
-### 🤝 Let's Connect
+## 🤝 Let's Connect
 
 * 💼 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roumeissa-benaissa-4b9924351/)
 * 📧 **Email:** [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roumeissa.benaissa@univ-constantine2.dz)
