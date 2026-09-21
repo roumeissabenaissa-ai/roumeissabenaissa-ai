@@ -1,6 +1,6 @@
 # Hi, I'm Roumeissa 👋
 
-🎓 Master's Student in Data Science & Artificial Intelligence
+# Master's Student in Data Science & Artificial Intelligence
 
 🔬 Interested in Artificial Intelligence, Machine Learning & Deep Learning
 
